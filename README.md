@@ -8,6 +8,8 @@ yarn create-next-app -e with-typescript boilerplate-nextjs-typescript-eslint-pre
 
 ## Eslint + Prettier
 
+This boilerplate use airbnb style eslint.
+
 ```bash
 yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb eslint-config-prettier eslint-import-resolver-alias eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks 
 ```
@@ -26,7 +28,8 @@ yarn lint:fix
 yarn
 ```
 
-Install `eslint` and `prettier` on your VSCode
+Install `eslint` and `prettier` on your VSCode.
+Then in the `.vscode/settings.json` support auto-fix when you press save(Ctrl + s).
 
 ## You can
 
@@ -43,3 +46,5 @@ Above import statement meaning
 import SomeComponent from './src/components/SomeComponent';
 ```
 
+But aware that './src/components/SomeComponents' isn't work.
+Only `#` is allowd when using import with absolute path.
