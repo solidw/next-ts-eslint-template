@@ -1,5 +1,5 @@
 {
-	"name": "boilerplate-nextjs-typescript-eslint-prettier",
+	"name": "boilerplate-next.js-typescript-eslint-prettier",
 	"version": "1.0.0",
 	"scripts": {
 		"dev": "next",
