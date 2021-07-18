@@ -1,10 +1,10 @@
-# Boilerplate with Next.js + TypeScript + ESLinT
+# Boilerplate with Next.js + TypeScript + ESLint
 
-## Eslint
+## ESLint
 
-This boilerplate use airbnb based style eslint and custom rules.
+This boilerplate use airbnb based style ESLint and custom rules.
 
-For run eslint
+For run ESLint
 
 ```bash
 yarn lint
@@ -18,7 +18,7 @@ yarn lint:fix
 yarn
 ```
 
-Install `eslint` and `prettier` on your VSCode.
+Install `eslint`.
 Then in the `.vscode/settings.json` support auto-fix when you press save(Ctrl + s).
 
 ## You can
