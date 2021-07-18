@@ -1,18 +1,8 @@
-# Boilerplate with Next.js + TypeScript + Eslint + Prettier
+# Boilerplate with Next.js + TypeScript + ESLinT
 
-## Next.js + TypeScript
+## Eslint
 
-```bash
-yarn create-next-app -e with-typescript boilerplate-nextjs-typescript-eslint-prettier
-```
-
-## Eslint + Prettier
-
-This boilerplate use airbnb style eslint.
-
-```bash
-yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb eslint-config-prettier eslint-import-resolver-alias eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks 
-```
+This boilerplate use airbnb based style eslint and custom rules.
 
 For run eslint
 
