@@ -1,4 +1,4 @@
-# Boilerplate with Next.js + TypeScript + ESLint
+# Boilerplate with Next.js 11 + TypeScript + ESLint
 
 ## ESLint
 
