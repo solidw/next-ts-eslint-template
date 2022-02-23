@@ -1,5 +1,5 @@
-import ListItem from './ListItem';
-import { User } from '#/interfaces';
+import ListItem from "./ListItem";
+import { User } from "#/interfaces";
 
 type Props = {
   items: User[];
