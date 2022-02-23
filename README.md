@@ -1,8 +1,6 @@
-# Boilerplate with Next.js 11 + TypeScript + ESLint
+# Boilerplate with Next.js 11 + TypeScript + ESLint + Prettier
 
 ## ESLint
-
-This boilerplate use airbnb based style ESLint and custom rules.
 
 For run ESLint
 
