@@ -26,13 +26,3 @@ You can import files with absolute path using `#` when it is under `/src`
 ```javascript
 import SomeComponent from '#/components/SomeComponent';
 ```
-
-\# means `./src`.
-Above import statement meaning
-
-```javascript
-import SomeComponent from './src/components/SomeComponent';
-```
-
-But aware that './src/components/SomeComponents' isn't work.
-Only `#` is allowd when using import with absolute path.
